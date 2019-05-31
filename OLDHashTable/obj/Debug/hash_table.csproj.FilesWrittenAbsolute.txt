@@ -1,0 +1,1 @@
+/home/makar/RiderProjects/hash_table/hash_table/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs

@@ -1,0 +1,14 @@
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/HashTable.deps.json
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/HashTable.runtimeconfig.json
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/HashTable.runtimeconfig.dev.json
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/HashTable.dll
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/HashTable.pdb
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/List.dll
+/home/makar/RiderProjects/hash_table/HashTable/bin/Debug/netcoreapp2.2/List.pdb
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.csprojAssemblyReference.cache
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.csproj.CoreCompileInputs.cache
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.AssemblyInfoInputs.cache
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.AssemblyInfo.cs
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.csproj.CopyComplete
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.dll
+/home/makar/RiderProjects/hash_table/HashTable/obj/Debug/netcoreapp2.2/HashTable.pdb

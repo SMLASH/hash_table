@@ -1,0 +1,9 @@
+/home/makar/RiderProjects/stack_on_list_2/List/bin/Debug/netcoreapp2.2/List.deps.json
+/home/makar/RiderProjects/stack_on_list_2/List/bin/Debug/netcoreapp2.2/List.dll
+/home/makar/RiderProjects/stack_on_list_2/List/bin/Debug/netcoreapp2.2/List.pdb
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.csprojAssemblyReference.cache
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.csproj.CoreCompileInputs.cache
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.AssemblyInfoInputs.cache
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.AssemblyInfo.cs
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.dll
+/home/makar/RiderProjects/stack_on_list_2/List/obj/Debug/netcoreapp2.2/List.pdb
